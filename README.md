@@ -2,7 +2,6 @@
 
 ## Stack utilizada:
 
-
  * Spring Web
  * Spring Data JPA
  * H2 Database
@@ -25,12 +24,3 @@ PUT - /api/v1/rooms/{id}
 
 * Excluir uma sala pelo id
 DELETE - /api/v1/rooms/{Id}
-
-
-[Live Digital Innovation One dessa aplicação](https://www.youtube.com/watch?v=_2gRnfJeyMM)
-
-[slides - em breve]()
-
-
-
- 
